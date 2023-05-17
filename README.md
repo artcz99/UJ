@@ -5,4 +5,5 @@ Most of my projects, homework, and assignments I completed at Uniwersytet Jagiel
 Courses: 
 - Programming 1 - Basic C++98 knowledge,
 - Programming 1 - General C/C++98 knowledge,
-- Machine Learning in iOS - CoreML, Keras, Turi Create, user activity recognition using iPhone sensors for sequence classification.
+- Machine Learning in iOS - CoreML, Keras, Turi Create, user activity recognition using iPhone sensors for sequence classification,
+- Databases - Relational data modeling, SQL programming, transactions, indexing, security, and various types of databases.
