@@ -6,4 +6,5 @@ Courses:
 - Programming 1 - Basic C++98 knowledge,
 - Programming 1 - General C/C++98 knowledge,
 - Machine Learning in iOS - CoreML, Keras, Turi Create, user activity recognition using iPhone sensors for sequence classification,
-- Databases - Relational data modeling, SQL programming, transactions, indexing, security, and various types of databases.
+- Databases - Relational data modeling, SQL programming, transactions, indexing, security, and various types of databases,
+- Effective and Modern C++ - Modern concepts from C++11 version and above.
